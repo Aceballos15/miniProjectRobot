@@ -9,5 +9,5 @@
 #### python robot.py  
 
 <a href="" target="_blank"> 
-  <img src="https://github.com/Aceballos15/miniProjectRobot/blob/master/RobotRed.png" alt="Robot" width="200" height="200"/> 
+  <img src="https://github.com/Aceballos15/miniProjectRobot/blob/master/RobotRed.png" alt="Robot" width="400" height="300"/> 
  </a> 
